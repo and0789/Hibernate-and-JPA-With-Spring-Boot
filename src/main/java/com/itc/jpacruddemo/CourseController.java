@@ -14,7 +14,8 @@ public class CourseController {
         return Arrays.asList(
                 new Course (1L, "Learn AWS", "Institut Teknologi Cirebon"),
                 new Course (2L, "Learn DevOps", "Institut Teknologi Cirebon"),
-                new Course (3L, "Learn Software Engineer", "Institut Teknologi Cirebon")
+                new Course (3L, "Learn Software Engineer", "Institut Teknologi Cirebon"),
+                new Course (3L, "Learn Networking", "Institut Teknologi Cirebon")
         );
     }
 }
